@@ -1,0 +1,1 @@
+This system allows users to sign up, vote for their favorite users, and participate in a voting-based process. Admins have the ability to manage users, monitor votes, and select winners based on the voting results.
